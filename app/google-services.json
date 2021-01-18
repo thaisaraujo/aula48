@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86187233017",
+    "project_id": "fir-notification-aula-48",
+    "storage_bucket": "fir-notification-aula-48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86187233017:android:203ec2250e85ff45719c28",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotificationaula48"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86187233017-sdvtncjsb8jn2iote38mm8qlqah8q5su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUg3maytlRvhPCFyOMOqPtXJDIY900GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86187233017-sdvtncjsb8jn2iote38mm8qlqah8q5su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
